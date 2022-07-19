@@ -1,0 +1,7 @@
+.f-card:hover{
+    box-shadow: 2px 2px 20px 0.3px rgba(0, 0, 0, 0.2);
+    
+}
+.f-card{
+    transition: .5s ease-in-out;
+}

@@ -1,0 +1,17 @@
+
+.banner-bg{
+    background-position: center top;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+   
+}
+.banner-text{
+    height: 30rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p, .card{
+    cursor: pointer;
+}
